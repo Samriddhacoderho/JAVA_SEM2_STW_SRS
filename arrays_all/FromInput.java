@@ -21,6 +21,7 @@ public class FromInput {
 
         //Alternatively, array ko elements esari pani access garna sakincha, in a single line of code:
         System.out.println(Arrays.toString(arr));
+        sc.close();
     }
 }
 
