@@ -1,0 +1,4 @@
+Polymorphism ko duita types
+
+1) method overloading: same method name but different lentgth or datatype of parameters, it is also called compile time polymorphism.
+2) method overriding : 

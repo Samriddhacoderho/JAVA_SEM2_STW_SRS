@@ -1,0 +1,9 @@
+compile time exception-->checked exception
+run time exception-->unchecked exception
+
+java ma try catch finally throw ra throws bhanne huncha
+
+try lekhe chi catch or finally lekhnai parcha
+
+user defined exception faalna lai throw use garne
+
