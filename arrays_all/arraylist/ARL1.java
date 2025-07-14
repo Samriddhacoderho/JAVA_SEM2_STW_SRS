@@ -1,7 +1,6 @@
 package arrays_all.arraylist;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ARL1 {
     public static void main(String[] args) {
